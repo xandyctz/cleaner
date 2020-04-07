@@ -1,2 +1,5 @@
-# cleaner
-File cleaner simple. TEMP, %TEMP% and Prefetch
+### Finished functions
+---
+- [x] TEMP
+- [ ] %TEMP%
+- [ ] Prefetch
